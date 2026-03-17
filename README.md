@@ -55,8 +55,8 @@ Sistema de gerenciamento de biblioteca.
 
 # 📫 Contato
 
-🔗 LinkedIn: coloque seu link aqui  
-📧 Email: seu email aqui
+🔗 LinkedIn: https://www.linkedin.com/in/danieltmagalhaes/
+📧 Email: daniel.t.magalhaes@gmail.com
 
 ---
 
