@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Daniel Magalhães</h1>
+<h1 align="center">Olá, eu sou Daniel Magalhães</h1>
 <h3 align="center">Desenvolvedor Backend | Java | Spring Boot</h3>
 
 ---
