@@ -1,53 +1,63 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danieltmagalhaes)
-
-
-
-# Olá! Eu sou Daniel Magalhães 👋
-
-💻 Desenvolvedor Backend em formação focado em Java e Spring Boot.
-
-Concluí a formação Oracle Next Education (ONE) em parceria com a Alura, onde desenvolvi habilidades em desenvolvimento backend e construção de APIs REST.
+<h1 align="center">Olá 👋, eu sou Daniel Magalhães</h1>
+<h3 align="center">Desenvolvedor Backend | Java | Spring Boot</h3>
 
 ---
 
-## 🚀 Tecnologias
+💻 Desenvolvedor backend em formação focado em **Java e Spring Boot**.
 
-- Java
-- Spring Boot
-- Spring Data JPA
-- REST APIs
-- Git e GitHub
+🎓 Formação **Oracle Next Education (ONE)** em parceria com a **Alura**.
+
+🚀 Atualmente focado em desenvolvimento de **APIs REST e Backend Java**.
 
 ---
 
-## 🛠 Ferramentas
+# 🚀 Tecnologias
 
-- IntelliJ IDEA
-- VS Code
-- Maven
-- MySQL
+<p align="left">
+
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java">
+<img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot">
+<img src="https://img.shields.io/badge/Spring-white?style=for-the-badge&logo=spring">
+<img src="https://img.shields.io/badge/Hibernate-brown?style=for-the-badge&logo=hibernate">
+<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql">
+<img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Maven-red?style=for-the-badge&logo=apachemaven">
+
+</p>
 
 ---
 
-## 📌 Projetos
+# 📊 Estatísticas do GitHub
 
-🔹 Task Manager API  
-API REST para gerenciamento de tarefas com Java e Spring Boot.
+<p align="center">
 
-🔹 Finance Control API  
-API para controle de receitas e despesas.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
 
-🔹 Library System API  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📌 Projetos em destaque
+
+🚀 **Task Manager API**  
+API REST para gerenciamento de tarefas usando Java e Spring Boot.
+
+🚀 **Finance Control API**  
+Sistema de controle financeiro com Spring Boot e JPA.
+
+🚀 **Library System API**  
 Sistema de gerenciamento de biblioteca.
 
 ---
 
-## 📫 Contato
+# 📫 Contato
 
-LinkedIn: seu link aqui
-Email: seu email aqui
+🔗 LinkedIn: coloque seu link aqui  
+📧 Email: seu email aqui
 
+---
 
-![Java](https://img.shields.io/badge/Java-orange)
-![Spring](https://img.shields.io/badge/SpringBoot-green)
-![Git](https://img.shields.io/badge/Git-red)
+⭐ Sempre aprendendo e evoluindo no desenvolvimento backend!
