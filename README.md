@@ -1,4 +1,4 @@
-![GitHub Stats](https://github.com/DanielTMagalhaes)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danieltmagalhaes)
 
 
 
