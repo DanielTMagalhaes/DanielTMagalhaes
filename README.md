@@ -83,7 +83,7 @@ Sistema de gerenciamento de biblioteca
 
 ## 🐍 Contribuições
 
-![snake gif](https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/danieltmagalhaes/danieltmagalhaes/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
