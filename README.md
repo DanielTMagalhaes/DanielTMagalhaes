@@ -53,7 +53,6 @@ Meu objetivo é evoluir constantemente e contribuir em projetos que valorizem qu
 | <img src="https://skillicons.dev/icons?i=spring" width="60"/> | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot"/> | <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate"/> |
 
 </div>
----
 
 ## 🗄 Banco de Dados
 
