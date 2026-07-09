@@ -2,9 +2,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Daniel+Magalhães;Backend+Developer;Java+%7C+Spring+Boot+%7C+GitHub">
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
-</p>
 
 
 
