@@ -10,41 +10,15 @@
 
 ---
 
-# 💻 Sobre mim
+## 💻 Sobre mim
 
-```java
-public class DanielMagalhaes {
+Sou desenvolvedor Back-end com foco em Java e Spring Boot, construindo APIs REST e aplicações seguindo boas práticas de desenvolvimento.
 
-    private final String role = "Backend Java Developer";
+Tenho experiência com bancos de dados relacionais, versionamento com Git, conteinerização com Docker e integração de aplicações utilizando Spring Data JPA e Hibernate.
 
-    private final String[] stack = {
-        "Java",
-        "Spring Boot",
-        "JPA",
-        "Hibernate",
-        "PostgreSQL",
-        "Docker",
-        "Oracle Cloud Infrastructure"
-    };
+Recentemente obtive a certificação Oracle Cloud Infrastructure (OCI), ampliando meus conhecimentos em computação em nuvem e deploy de aplicações.
 
-    public void currentGoal() {
-        System.out.println("Construir aplicações Java modernas, escaláveis e de alta qualidade.");
-    }
-}
-```
-
-🎯 Desenvolvedor focado em desenvolvimento Back-end utilizando Java.
-
-☕
-
-Apaixonado por arquitetura de software, APIs REST e boas práticas.
-
-🏆 Oracle Cloud Infrastructure (OCI) Certified.
-
-🚀 Desenvolvendo aplicações com Spring Boot.
-
-📚 Estudando constantemente novas tecnologias para entregar software de qualidade.
-
+Meu objetivo é evoluir constantemente e contribuir em projetos que valorizem qualidade de código, aprendizado contínuo e colaboração.
 ---
 
 # 🏆 Certificações
