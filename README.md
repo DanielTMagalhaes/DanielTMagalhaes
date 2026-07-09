@@ -67,19 +67,15 @@ Apaixonado por arquitetura de software, APIs REST e boas práticas.
 
 # 🚀 Tecnologias
 
-## ☕
+## ☕ Linguagens
 
-### Linguagens
+<div align="center">
 
-<p>
+| Java | Python | JavaScript |
+|:----:|:------:|:----------:|
+| <img src="https://skillicons.dev/icons?i=java" width="60"/> | <img src="https://skillicons.dev/icons?i=python" width="60"/> | <img src="https://skillicons.dev/icons?i=js" width="60"/> |
 
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-</p>
+</div>
 
 ---
 
