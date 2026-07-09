@@ -1,90 +1,325 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Daniel+Magalhães;Backend+Developer;Java+%7C+Spring+Boot+%7C+GitHub">
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+# 👋 Olá, eu sou Daniel Magalhães
+
+### ☕ Java Backend Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F89820&center=true&vCenter=true&random=false&width=800&lines=Java+Backend+Developer;Spring+Boot+Developer;Oracle+Cloud+Infrastructure+(OCI)+Certified;REST+API+Developer;Always+Learning..." />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=DanielTMagalhaes&style=for-the-badge&color=blue"/>
+
+</div>
+
+---
+
+# 💻 Sobre mim
+
+```java
+public class DanielMagalhaes {
+
+    private final String role = "Backend Java Developer";
+
+    private final String[] stack = {
+        "Java",
+        "Spring Boot",
+        "JPA",
+        "Hibernate",
+        "PostgreSQL",
+        "Docker",
+        "Oracle Cloud Infrastructure"
+    };
+
+    public void currentGoal() {
+        System.out.println("Construir aplicações Java modernas, escaláveis e de alta qualidade.");
+    }
+}
+```
+
+🎯 Desenvolvedor focado em desenvolvimento Back-end utilizando Java.
+
+☕
+
+Apaixonado por arquitetura de software, APIs REST e boas práticas.
+
+🏆 Oracle Cloud Infrastructure (OCI) Certified.
+
+🚀 Desenvolvendo aplicações com Spring Boot.
+
+📚 Estudando constantemente novas tecnologias para entregar software de qualidade.
+
+---
+
+# 🏆 Certificações
+
+<p>
+
+<img src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure-OCI_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Oracle_Next_Education-ONE-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Alura-Java-blue?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+# 🚀 Tecnologias
 
-💻 Desenvolvedor Backend em formação focado em **Java e Spring Boot**  
+## ☕
 
-🎓 Formação pela **Oracle Next Education (ONE)** em parceria com a **Alura**  
+### Linguagens
 
-🚀 Focado em desenvolvimento de **APIs REST**, arquitetura backend e boas práticas  
+<p>
 
-📚 Sempre evoluindo e construindo projetos práticos  
+<img src="https://skillicons.dev/icons?i=java"/>
 
----
+<img src="https://skillicons.dev/icons?i=python"/>
 
-## 🚀 Tecnologias & Ferramentas
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge">
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
+<img src="https://skillicons.dev/icons?i=js"/>
 
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🌱 Frameworks
 
-<p align="center">
+<p>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=spring"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot"/>
+
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate"/>
 
 </p>
 
 ---
 
-## 🔥 Projetos em Destaque
+## 🗄 Banco de Dados
 
-🚀 **Task Manager API**  
-API REST para gerenciamento de tarefas com Java e Spring Boot  
+<p>
 
-🚀 **Finance Control API**  
-Sistema de controle financeiro com Spring Boot e JPA  
+<img src="https://skillicons.dev/icons?i=postgres"/>
 
-🚀 **Library System API**  
-Sistema de gerenciamento de biblioteca  
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
----
+<img src="https://skillicons.dev/icons?i=mongodb"/>
 
-## 📈 Atualmente estudando
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle"/>
 
-- Spring Security  
-- JWT (Autenticação)  
-- Boas práticas de arquitetura  
-- APIs REST avançadas  
+</p>
 
 ---
 
-## 📫 Contato
+## ☁️ Cloud
 
-🔗 LinkedIn: https://www.linkedin.com/in/danieltmagalhaes/  
+<p>
 
-📧 Email: daniel.t.magalhaes@gmail.com  
+<img src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
----
-
-## 🐍 Contribuições
-
-![snake gif](https://github.com/danieltmagalhaes/danieltmagalhaes/blob/output/github-contribution-grid-snake.svg)
+</p>
 
 ---
 
-⭐ "Sempre evoluindo no desenvolvimento backend com Java"
+## 🔧 Ferramentas
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=maven"/>
+
+<img src="https://skillicons.dev/icons?i=idea"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+</p>
+
+---
+
+## 🌎 Desenvolvimento
+
+<p>
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SOLID-512BD4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MVC-2196F3?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/POO-FF9800?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🚀 Projetos
+
+### 📦 Spring Task API
+
+> API REST para gerenciamento de tarefas.
+
+✔ Java
+
+✔ Spring Boot
+
+✔ PostgreSQL
+
+✔ Docker
+
+✔ Swagger
+
+✔ JPA
+
+---
+
+### 📦 Library API
+
+Sistema completo para gerenciamento de biblioteca.
+
+✔ Java
+
+✔ Spring Boot
+
+✔ Hibernate
+
+✔ REST
+
+---
+
+### 📦 Finance API
+
+Controle financeiro utilizando arquitetura em camadas.
+
+✔ Java
+
+✔ PostgreSQL
+
+✔ Docker
+
+✔ Maven
+
+---
+
+# 📈 RoadMap
+
+```text
+Java                 ██████████████████ 100%
+
+POO                  ██████████████████ 100%
+
+SQL                  ██████████████████ 100%
+
+Git                  ██████████████████ 100%
+
+Spring Boot          ██████████████░░░░ 75%
+
+Hibernate            █████████████░░░░░ 70%
+
+Docker               ███████████░░░░░░░ 60%
+
+Oracle OCI           ███████████████░░░ 80%
+
+Spring Security      ███████░░░░░░░░░░░ 40%
+
+JWT                  ██████░░░░░░░░░░░░ 35%
+
+Microservices        ███░░░░░░░░░░░░░░░ 20%
+
+Kubernetes           ██░░░░░░░░░░░░░░░░ 10%
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielTMagalhaes&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielTMagalhaes&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=DanielTMagalhaes&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielTMagalhaes&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DanielTMagalhaes&theme=tokyonight&margin-w=15"/>
+
+</div>
+
+---
+
+# 📚 Atualmente estudando
+
+- ☕ Java 21
+- 🌱 Spring Boot
+- 🔐 Spring Security
+- 🔑 JWT
+- 🐳 Docker
+- ☁️ Oracle Cloud Infrastructure
+- 🏛 Clean Architecture
+- 📦 Microsserviços
+
+---
+
+# 🌎 Contato
+
+<div align="center">
+
+<a href="mailto:daniel.t.magalhaes@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/danieltmagalhaes/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/DanielTMagalhaes">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ☕ "First, solve the problem. Then, write the code."
+
+### ⭐ Obrigado por visitar meu perfil!
+
+</div>
