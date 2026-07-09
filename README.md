@@ -1,16 +1,12 @@
-<div align="center">
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Daniel+Magalhães;Backend+Developer;Java+%7C+Spring+Boot+%7C+GitHub">
+</h1>
 
-# 👋 Olá, eu sou Daniel Magalhães
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</p>
 
-### ☕ Java Backend Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F89820&center=true&vCenter=true&random=false&width=800&lines=Java+Backend+Developer;Spring+Boot+Developer;Oracle+Cloud+Infrastructure+(OCI)+Certified;REST+API+Developer;Always+Learning..." />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=DanielTMagalhaes&style=for-the-badge&color=blue"/>
-
-</div>
 
 ---
 
