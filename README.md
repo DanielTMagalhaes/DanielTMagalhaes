@@ -81,80 +81,56 @@ Apaixonado por arquitetura de software, APIs REST e boas práticas.
 
 ## 🌱 Frameworks
 
-<p>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=spring"/>
+| Spring | Spring Boot | Hibernate |
+|:------:|:-----------:|:---------:|
+| <img src="https://skillicons.dev/icons?i=spring" width="60"/> | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot"/> | <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate"/> |
 
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot"/>
-
-
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate"/>
-
-</p>
-
+</div>
 ---
 
 ## 🗄 Banco de Dados
 
-<p>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres"/>
+| PostgreSQL | MySQL | MongoDB | Oracle |
+|:----------:|:-----:|:-------:|:------:|
+| <img src="https://skillicons.dev/icons?i=postgres" width="60"/> | <img src="https://skillicons.dev/icons?i=mysql" width="60"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="60"/> | <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle"/> |
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle"/>
-
-</p>
-
----
+</div>
 
 ## ☁️ Cloud
 
-<p>
+<div align="center">
 
-<img src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+| Oracle Cloud Infrastructure |
+|:---------------------------:|
+| <img src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> |
 
-</p>
-
----
+</div>
 
 ## 🔧 Ferramentas
 
-<p>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=git"/>
+| Git | GitHub | Docker | Maven | IntelliJ | Postman |
+|:---:|:------:|:------:|:------:|:--------:|:--------:|
+| <img src="https://skillicons.dev/icons?i=git" width="60"/> | <img src="https://skillicons.dev/icons?i=github" width="60"/> | <img src="https://skillicons.dev/icons?i=docker" width="60"/> | <img src="https://skillicons.dev/icons?i=maven" width="60"/> | <img src="https://skillicons.dev/icons?i=idea" width="60"/> | <img src="https://skillicons.dev/icons?i=postman" width="60"/> |
 
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=maven"/>
-
-<img src="https://skillicons.dev/icons?i=idea"/>
-
-<img src="https://skillicons.dev/icons?i=postman"/>
-
-</p>
+</div>
 
 ---
 
 ## 🌎 Desenvolvimento
 
-<p>
+<div align="center">
 
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+| REST API | Clean Code | SOLID | MVC | POO |
+|:--------:|:----------:|:-----:|:---:|:---:|
+| <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/> | <img src="https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge"/> | <img src="https://img.shields.io/badge/SOLID-512BD4?style=for-the-badge"/> | <img src="https://img.shields.io/badge/MVC-2196F3?style=for-the-badge"/> | <img src="https://img.shields.io/badge/POO-FF9800?style=for-the-badge"/> |
 
-<img src="https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SOLID-512BD4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MVC-2196F3?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/POO-FF9800?style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
