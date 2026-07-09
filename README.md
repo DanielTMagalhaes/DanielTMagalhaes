@@ -1,8 +1,6 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Daniel+Magalhães;Backend+Developer;Java+%7C+Spring+Boot+%7C+GitHub">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Certified+Oracle+OCI;Daniel+Magalhães;Backend+Developer;Java+%7C+Spring+Boot+%7C+GitHub">
 </h1>
-
-
 
 
 ---
