@@ -91,7 +91,6 @@ Apaixonado por arquitetura de software, APIs REST e boas práticas.
 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot"/>
 
-<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate"/>
 
